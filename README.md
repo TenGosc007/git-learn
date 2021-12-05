@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](https://i.postimg.cc/HskTd2Vp/banner.png)
 
 ## Podstawowe komendy
 
